@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background: linear-gradient(to right, #c3b1b1,#524a4a)
+}
+
+.card-header{
+    font-weight: bolder;
+    background-color: #110909;
+    color: #ffffff;
+    border-radius: 3% !important;
+
+}
+
+.sub-con{
+    border-radius: 2%;
+    box-shadow: 1px 1px 3px 3px gray;
+}
+
+.card-title{
+padding-right: 7.3em !important;
+font-weight: bolder;
+}
+
+.card{
+    margin-top: 3% !important;
+    height: 90vh !important;
+    max-width: 350px !important;
+}
+
+.btn{
+    max-width: 40em !important;
+    margin-top: 4% !important;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: rgb(63, 56, 24);
+    border: none;
+}
+
+select{
+    padding-left: 5% !important;
+    font-size: 20px;
+    max-width: 200px;
+    margin-right: 5em !important;
+}
+
+.inpt{
+    margin-bottom: 3%;
+    margin-right: 34.5%;
+}
+
+.text2{
+    padding-right: 8.2em;
+    font-weight: bolder;
+}
+
+.text3{
+    padding-right: 1em;
+    font-weight: bolder;
+}
